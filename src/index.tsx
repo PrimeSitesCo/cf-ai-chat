@@ -90,12 +90,12 @@ app.get("/", (c) => {
           <div className="mt-4 text-center text-sm text-gray-500 flex items-center justify-center">
             <span className="mr-2 pt-2">Powered by</span>
             <a
-              href="https://developers.cloudflare.com/workers-ai/"
+              href="https://www.primesites.com.au/"
               target="_blank"
             >
               <img
-                src="/static/cloudflare-logo.png"
-                alt="Cloudflare Logo"
+                src="https://cdn.primesites.com.au/images/PrimeSites-Title-GOT-1K.png"
+                alt="PrimeSites Digital Logo"
                 className="h-6 inline"
               />
             </a>
